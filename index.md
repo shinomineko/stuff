@@ -5,7 +5,7 @@
 * [Programming zines by Julia Evans](https://wizardzines.com/comics/)
 * [How to teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 * [Cipher suite info](https://ciphersuite.info/)
-* [InfoSec Refernce that doesn't suck](https://rmusser.net/docs/index.html)
+* [InfoSec reference that doesn't suck](https://rmusser.net/docs/index.html)
 * [Principle of chaos engineering](https://principlesofchaos.org/)
 * [What we call CI/CD is actually only CI](https://dev.to/canarian/let-s-stop-fooling-ourselves-what-we-call-ci-cd-is-actually-only-ci-13c)
 * [There's no such thing as CI/CD](https://blog.frankel.ch/no-such-thing-as-ci-cd/)
