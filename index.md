@@ -11,3 +11,4 @@
 * [There's no such thing as CI/CD](https://blog.frankel.ch/no-such-thing-as-ci-cd/)
 * [Visual subnet calculator](https://www.davidc.net/sites/default/subnets/subnets.html)
 * [RHCA study notes](https://github.com/lisenet/RHCA-study-notes)
+* [CryptoHack](https://cryptohack.org/)
