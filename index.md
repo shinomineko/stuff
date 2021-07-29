@@ -12,3 +12,4 @@
 * [Visual subnet calculator](https://www.davidc.net/sites/default/subnets/subnets.html)
 * [RHCA study notes](https://github.com/lisenet/RHCA-study-notes)
 * [CryptoHack](https://cryptohack.org/)
+* [OpenShift Playgrounds](https://learn.openshift.com/playgrounds)
