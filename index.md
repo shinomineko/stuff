@@ -13,3 +13,4 @@
 * [RHCA study notes](https://github.com/lisenet/RHCA-study-notes)
 * [CryptoHack](https://cryptohack.org/)
 * [OpenShift Playgrounds](https://learn.openshift.com/playgrounds)
+* [DevOps Engineer Crash Course](https://matduggan.com/devops-engineer-crash-course/)
