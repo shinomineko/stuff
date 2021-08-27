@@ -14,4 +14,4 @@
 * [CryptoHack](https://cryptohack.org/)
 * [OpenShift Playgrounds](https://learn.openshift.com/playgrounds)
 * [DevOps Engineer Crash Course](https://matduggan.com/devops-engineer-crash-course/)
-* [there is no such thing as a “glibc based alpine image”](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
+* [there is no such thing as a "glibc based alpine image"](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
