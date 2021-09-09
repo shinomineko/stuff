@@ -16,3 +16,4 @@
 * [DevOps Engineer Crash Course](https://matduggan.com/devops-engineer-crash-course/)
 * [there is no such thing as a "glibc based alpine image"](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
 * [Container CVE List](https://www.container-security.site/general_information/container_cve_list.html)
+* [Every Noise at Once](https://everynoise.com/)
