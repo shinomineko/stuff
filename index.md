@@ -18,3 +18,4 @@
 * [Container CVE List](https://www.container-security.site/general_information/container_cve_list.html)
 * [Every Noise at Once](https://everynoise.com/)
 * [Google Style Guides](https://google.github.io/styleguide/)
+* [command-not-found](https://command-not-found.com/)
