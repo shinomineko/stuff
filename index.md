@@ -12,7 +12,7 @@
 * [Visual subnet calculator](https://www.davidc.net/sites/default/subnets/subnets.html)
 * [RHCA study notes](https://github.com/lisenet/RHCA-study-notes)
 * [CryptoHack](https://cryptohack.org/)
-* [OpenShift Playgrounds](https://learn.openshift.com/playgrounds)
+* [OpenShift Playgrounds](https://developers.redhat.com/courses/explore-openshift/openshift-49-playground)
 * [DevOps Engineer Crash Course](https://matduggan.com/devops-engineer-crash-course/)
 * [there is no such thing as a "glibc based alpine image"](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
 * [Container CVE List](https://www.container-security.site/general_information/container_cve_list.html)
