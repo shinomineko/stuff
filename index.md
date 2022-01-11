@@ -19,3 +19,4 @@
 * [Every Noise at Once](https://everynoise.com/)
 * [Google Style Guides](https://google.github.io/styleguide/)
 * [command-not-found](https://command-not-found.com/)
+* [Open Source Insights](https://deps.dev/)
