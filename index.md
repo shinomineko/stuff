@@ -15,7 +15,7 @@
 * [OpenShift Playgrounds](https://developers.redhat.com/courses/explore-openshift/openshift-49-playground)
 * [DevOps Engineer Crash Course](https://matduggan.com/devops-engineer-crash-course/)
 * [there is no such thing as a "glibc based alpine image"](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
-* [Container CVE List](https://www.container-security.site/general_information/container_cve_list.html)
+* [Container Security](https://www.container-security.site/)
 * [Every Noise at Once](https://everynoise.com/)
 * [Google Style Guides](https://google.github.io/styleguide/)
 * [command-not-found](https://command-not-found.com/)
