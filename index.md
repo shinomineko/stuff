@@ -20,3 +20,4 @@
 * [Google Style Guides](https://google.github.io/styleguide/)
 * [command-not-found](https://command-not-found.com/)
 * [Open Source Insights](https://deps.dev/)
+* [Don't Use Kubernetes, Yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
