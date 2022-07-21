@@ -21,3 +21,4 @@
 * [command-not-found](https://command-not-found.com/)
 * [Open Source Insights](https://deps.dev/)
 * [Don't Use Kubernetes, Yet](https://matt-rickard.com/dont-use-kubernetes-yet/)
+* [Why long-term plans don't work and how to fix them](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
