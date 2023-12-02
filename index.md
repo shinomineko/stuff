@@ -25,3 +25,4 @@
 * [Kubernetes Failure Stories](https://k8s.af/)
 * [Anitya - Release Monitoring](https://release-monitoring.org/)
 * [CVE Trends](https://cvetrends.com/)
+* [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
