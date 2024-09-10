@@ -26,3 +26,4 @@
 * [Anitya - Release Monitoring](https://release-monitoring.org/)
 * [CVE Trends](https://cvetrends.com/)
 * [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
+* [The Cryptographic Doom Principle](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
